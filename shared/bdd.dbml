@@ -1,0 +1,50 @@
+TABLE Ordinateurs {
+    OrdinateurID INT [primary key]
+    UserID INT
+    MarqueID INT
+    DateAchat DATE
+    RAM INT
+    Stockage INT
+    OS VARCHAR(100)
+}
+
+TABLE Logiciels_Installes {
+    Logiciels_installesID INT 
+    OrdinateurID INT
+    LogicielID INT
+}
+
+TABLE Logiciels {
+    LogicielID INT [primary key]
+    Nom VARCHAR(200)
+}
+
+TABLE Marques {
+    MarqueID INT [primary key]
+    Nom VARCHAR(200)
+}
+
+TABLE Users {
+    UserID INT [primary key]
+    Nom VARCHAR(200)
+    Prenom VARCHAR(200)
+}
+
+TABLE Maintenance {
+    MaintenanceID INT [primary key]
+    OrdinateurID INT
+    Description VARCHAR(250)
+    Action VARCHAR(100)
+    DateAction TIMESTAMP
+}
+
+
+Ref: "Logiciels"."LogicielID" < "Logiciels_Installes"."LogicielID"
+
+Ref: "Ordinateurs"."OrdinateurID" < "Logiciels_Installes"."OrdinateurID"
+
+Ref: "Ordinateurs"."OrdinateurID" < "Maintenance"."OrdinateurID"
+
+Ref: "Users"."UserID" < "Ordinateurs"."UserID"
+
+Ref: "Marques"."MarqueID" < "Ordinateurs"."MarqueID"

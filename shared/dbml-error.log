@@ -1,0 +1,234 @@
+2023-11-08T09:54:57.520Z
+Error: ENOENT: no such file or directory, stat '/srv/bdd'
+    at Object.statSync (fs.js:1016:3)
+    at validateFilePlugin (/usr/local/lib/node_modules/@dbml/cli/lib/cli/validatePlugins/validatePlugins.js:10:28)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:31
+    at Array.every (<anonymous>)
+    at validateInputFilePaths (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:16)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:21:39)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+
+2023-11-09T13:23:23.763Z
+Error: ENOENT: no such file or directory, stat '/srv/bdd'
+    at Object.statSync (fs.js:1016:3)
+    at validateFilePlugin (/usr/local/lib/node_modules/@dbml/cli/lib/cli/validatePlugins/validatePlugins.js:10:28)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:31
+    at Array.every (<anonymous>)
+    at validateInputFilePaths (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:16)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:21:39)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+
+2023-11-09T13:33:43.915Z
+Error: ENOENT: no such file or directory, stat '/srv/bdd'
+    at Object.statSync (fs.js:1016:3)
+    at validateFilePlugin (/usr/local/lib/node_modules/@dbml/cli/lib/cli/validatePlugins/validatePlugins.js:10:28)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:31
+    at Array.every (<anonymous>)
+    at validateInputFilePaths (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:16)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:21:39)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+
+2023-11-09T13:51:38.610Z
+Error: ENOENT: no such file or directory, stat '/srv/bdd'
+    at Object.statSync (fs.js:1016:3)
+    at validateFilePlugin (/usr/local/lib/node_modules/@dbml/cli/lib/cli/validatePlugins/validatePlugins.js:10:28)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:31
+    at Array.every (<anonymous>)
+    at validateInputFilePaths (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:16)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:21:39)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+
+2023-11-09T13:55:53.660Z
+Error: ENOENT: no such file or directory, stat '/srv/bdd'
+    at Object.statSync (fs.js:1016:3)
+    at validateFilePlugin (/usr/local/lib/node_modules/@dbml/cli/lib/cli/validatePlugins/validatePlugins.js:10:28)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:31
+    at Array.every (<anonymous>)
+    at validateInputFilePaths (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:16)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:21:39)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+
+2023-11-13T13:44:18.672Z
+Error: ENOENT: no such file or directory, stat '/srv/bdd'
+    at Object.statSync (fs.js:1016:3)
+    at validateFilePlugin (/usr/local/lib/node_modules/@dbml/cli/lib/cli/validatePlugins/validatePlugins.js:10:28)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:31
+    at Array.every (<anonymous>)
+    at validateInputFilePaths (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:16)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:21:39)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+
+2023-11-14T09:29:53.586Z
+Error: ENOENT: no such file or directory, stat '/srv/bdd'
+    at Object.statSync (fs.js:1016:3)
+    at validateFilePlugin (/usr/local/lib/node_modules/@dbml/cli/lib/cli/validatePlugins/validatePlugins.js:10:28)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:31
+    at Array.every (<anonymous>)
+    at validateInputFilePaths (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:16)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:21:39)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+
+2023-11-14T09:41:43.945Z
+Error: ENOENT: no such file or directory, stat '/srv/bdd'
+    at Object.statSync (fs.js:1016:3)
+    at validateFilePlugin (/usr/local/lib/node_modules/@dbml/cli/lib/cli/validatePlugins/validatePlugins.js:10:28)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:31
+    at Array.every (<anonymous>)
+    at validateInputFilePaths (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:16)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:21:39)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+
+2023-11-14T10:05:02.467Z
+Error: ENOENT: no such file or directory, stat '/srv/bdd'
+    at Object.statSync (fs.js:1016:3)
+    at validateFilePlugin (/usr/local/lib/node_modules/@dbml/cli/lib/cli/validatePlugins/validatePlugins.js:10:28)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:31
+    at Array.every (<anonymous>)
+    at validateInputFilePaths (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:16)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:21:39)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+
+2023-11-14T15:44:15.370Z
+Error: ENOENT: no such file or directory, stat '/srv/bdd'
+    at Object.statSync (fs.js:1016:3)
+    at validateFilePlugin (/usr/local/lib/node_modules/@dbml/cli/lib/cli/validatePlugins/validatePlugins.js:10:28)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:31
+    at Array.every (<anonymous>)
+    at validateInputFilePaths (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:16)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:21:39)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+
+2023-11-15T11:05:15.522Z
+Error: ENOENT: no such file or directory, stat '/srv/bdd'
+    at Object.statSync (fs.js:1016:3)
+    at validateFilePlugin (/usr/local/lib/node_modules/@dbml/cli/lib/cli/validatePlugins/validatePlugins.js:10:28)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:31
+    at Array.every (<anonymous>)
+    at validateInputFilePaths (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:16)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:21:39)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+
+2023-11-15T11:35:54.421Z
+Error: ENOENT: no such file or directory, stat '/srv/bdd'
+    at Object.statSync (fs.js:1016:3)
+    at validateFilePlugin (/usr/local/lib/node_modules/@dbml/cli/lib/cli/validatePlugins/validatePlugins.js:10:28)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:31
+    at Array.every (<anonymous>)
+    at validateInputFilePaths (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:16)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:21:39)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+
+2023-11-15T11:39:45.204Z
+Error: ENOENT: no such file or directory, stat '/srv/bdd'
+    at Object.statSync (fs.js:1016:3)
+    at validateFilePlugin (/usr/local/lib/node_modules/@dbml/cli/lib/cli/validatePlugins/validatePlugins.js:10:28)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:31
+    at Array.every (<anonymous>)
+    at validateInputFilePaths (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:16)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:21:39)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+
+2023-11-15T11:45:06.345Z
+Error: ENOENT: no such file or directory, stat '/srv/bdd'
+    at Object.statSync (fs.js:1016:3)
+    at validateFilePlugin (/usr/local/lib/node_modules/@dbml/cli/lib/cli/validatePlugins/validatePlugins.js:10:28)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:31
+    at Array.every (<anonymous>)
+    at validateInputFilePaths (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:16)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:21:39)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+
+2023-11-15T11:48:01.447Z
+Error: ENOENT: no such file or directory, stat '/srv/bdd'
+    at Object.statSync (fs.js:1016:3)
+    at validateFilePlugin (/usr/local/lib/node_modules/@dbml/cli/lib/cli/validatePlugins/validatePlugins.js:10:28)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:31
+    at Array.every (<anonymous>)
+    at validateInputFilePaths (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:16)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:21:39)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+
+2023-11-15T11:59:13.813Z
+Error: ENOENT: no such file or directory, stat '/srv/bdd'
+    at Object.statSync (fs.js:1016:3)
+    at validateFilePlugin (/usr/local/lib/node_modules/@dbml/cli/lib/cli/validatePlugins/validatePlugins.js:10:28)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:31
+    at Array.every (<anonymous>)
+    at validateInputFilePaths (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:16)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:21:39)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+
+2023-11-15T11:59:56.507Z
+Error: ENOENT: no such file or directory, stat '/srv/bdd'
+    at Object.statSync (fs.js:1016:3)
+    at validateFilePlugin (/usr/local/lib/node_modules/@dbml/cli/lib/cli/validatePlugins/validatePlugins.js:10:28)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:31
+    at Array.every (<anonymous>)
+    at validateInputFilePaths (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:16)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:21:39)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+
+2023-11-15T12:22:50.058Z
+Error: ENOENT: no such file or directory, stat '/srv/bdd'
+    at Object.statSync (fs.js:1016:3)
+    at validateFilePlugin (/usr/local/lib/node_modules/@dbml/cli/lib/cli/validatePlugins/validatePlugins.js:10:28)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:31
+    at Array.every (<anonymous>)
+    at validateInputFilePaths (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:16)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:21:39)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+

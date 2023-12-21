@@ -1,0 +1,101 @@
+MaintenanceID,OrdinateurID,Description,Action,DateAction
+1,1,Problème d'alimentation,Remplacement de l'alimentation,2023-11-01
+2,2,Écran cassé,Remplacement de l'écran,2023-11-02
+3,3,Problème de démarrage,Réparation du système d'exploitation,2023-11-03
+4,4,Virus détecté,Nettoyage du système,2023-11-04
+5,5,Problème de réseau,Réparation de la carte réseau,2023-11-05
+6,6,Performance lente,Optimisation du système,2023-11-06
+7,7,Perte de données,Restauration à partir de la sauvegarde,2023-11-07
+8,8,Problème de son,Remplacement des haut-parleurs,2023-11-08
+9,9,Surchauffe,Nettoyage du système de refroidissement,2023-11-09
+10,10,Problème de clavier,Remplacement du clavier,2023-11-10
+11,11,Échec du disque dur,Remplacement du disque dur,2023-11-11
+12,12,Problème d'affichage,Réparation de la carte graphique,2023-11-12
+13,13,Échec de la mise à jour,Installation de la mise à jour,2023-11-13
+14,14,Problème de batterie,Remplacement de la batterie,2023-11-14
+15,15,Problème d'alimentation,Remplacement de l'alimentation,2023-11-01
+16,16,Écran cassé,Remplacement de l'écran,2023-11-02
+17,17,Problème de démarrage,Réparation du système d'exploitation,2023-11-03
+18,18,Virus détecté,Nettoyage du système,2023-11-04
+19,19,Problème de réseau,Réparation de la carte réseau,2023-11-05
+20,20,Performance lente,Optimisation du système,2023-11-06
+21,21,Perte de données,Restauration à partir de la sauvegarde,2023-11-07
+22,22,Problème de son,Remplacement des haut-parleurs,2023-11-08
+23,23,Surchauffe,Nettoyage du système de refroidissement,2023-11-09
+24,24,Problème de clavier,Remplacement du clavier,2023-11-10
+25,25,Échec du disque dur,Remplacement du disque dur,2023-11-11
+26,26,Problème d'affichage,Réparation de la carte graphique,2023-11-12
+27,27,Échec de la mise à jour,Installation de la mise à jour,2023-11-13
+28,28,Problème de batterie,Remplacement de la batterie,2023-11-14
+29,29,Problème d'alimentation,Remplacement de l'alimentation,2023-11-01
+30,30,Écran cassé,Remplacement de l'écran,2023-11-02
+31,31,Problème de démarrage,Réparation du système d'exploitation,2023-11-03
+32,32,Virus détecté,Nettoyage du système,2023-11-04
+33,33,Problème de réseau,Réparation de la carte réseau,2023-11-05
+34,34,Performance lente,Optimisation du système,2023-11-06
+35,35,Perte de données,Restauration à partir de la sauvegarde,2023-11-07
+36,36,Problème de son,Remplacement des haut-parleurs,2023-11-08
+37,37,Surchauffe,Nettoyage du système de refroidissement,2023-11-09
+38,38,Problème de clavier,Remplacement du clavier,2023-11-10
+39,39,Échec du disque dur,Remplacement du disque dur,2023-11-11
+40,40,Problème d'affichage,Réparation de la carte graphique,2023-11-12
+41,41,Échec de la mise à jour,Installation de la mise à jour,2023-11-13
+42,42,Problème de batterie,Remplacement de la batterie,2023-11-14
+43,43,Problème d'alimentation,Remplacement de l'alimentation,2023-11-01
+44,44,Écran cassé,Remplacement de l'écran,2023-11-02
+45,45,Problème de démarrage,Réparation du système d'exploitation,2023-11-03
+46,46,Virus détecté,Nettoyage du système,2023-11-04
+47,47,Problème de réseau,Réparation de la carte réseau,2023-11-05
+48,48,Performance lente,Optimisation du système,2023-11-06
+49,49,Perte de données,Restauration à partir de la sauvegarde,2023-11-07
+50,50,Problème de son,Remplacement des haut-parleurs,2023-11-08
+51,51,Surchauffe,Nettoyage du système de refroidissement,2023-11-09
+52,52,Problème de clavier,Remplacement du clavier,2023-11-10
+53,53,Échec du disque dur,Remplacement du disque dur,2023-11-11
+54,54,Problème d'affichage,Réparation de la carte graphique,2023-11-12
+55,55,Échec de la mise à jour,Installation de la mise à jour,2023-11-13
+56,56,Problème de batterie,Remplacement de la batterie,2023-11-14
+57,57,Problème d'alimentation,Remplacement de l'alimentation,2023-11-01
+58,58,Écran cassé,Remplacement de l'écran,2023-11-02
+59,59,Problème de démarrage,Réparation du système d'exploitation,2023-11-03
+60,60,Virus détecté,Nettoyage du système,2023-11-04
+61,61,Problème de réseau,Réparation de la carte réseau,2023-11-05
+62,62,Performance lente,Optimisation du système,2023-11-06
+63,63,Perte de données,Restauration à partir de la sauvegarde,2023-11-07
+64,64,Problème de son,Remplacement des haut-parleurs,2023-11-08
+65,65,Surchauffe,Nettoyage du système de refroidissement,2023-11-09
+66,66,Problème de clavier,Remplacement du clavier,2023-11-10
+67,67,Échec du disque dur,Remplacement du disque dur,2023-11-11
+68,68,Problème d'affichage,Réparation de la carte graphique,2023-11-12
+69,69,Échec de la mise à jour,Installation de la mise à jour,2023-11-13
+70,70,Problème de batterie,Remplacement de la batterie,2023-11-14
+71,71,Problème d'alimentation,Remplacement de l'alimentation,2023-11-01
+72,72,Écran cassé,Remplacement de l'écran,2023-11-02
+73,73,Problème de démarrage,Réparation du système d'exploitation,2023-11-03
+74,74,Virus détecté,Nettoyage du système,2023-11-04
+75,75,Problème de réseau,Réparation de la carte réseau,2023-11-05
+76,76,Performance lente,Optimisation du système,2023-11-06
+77,77,Perte de données,Restauration à partir de la sauvegarde,2023-11-07
+78,78,Problème de son,Remplacement des haut-parleurs,2023-11-08
+79,79,Surchauffe,Nettoyage du système de refroidissement,2023-11-09
+80,80,Problème de clavier,Remplacement du clavier,2023-11-10
+81,81,Échec du disque dur,Remplacement du disque dur,2023-11-11
+82,82,Problème d'affichage,Réparation de la carte graphique,2023-11-12
+83,83,Échec de la mise à jour,Installation de la mise à jour,2023-11-13
+84,84,Problème de batterie,Remplacement de la batterie,2023-11-14
+85,85,Problème d'alimentation,Remplacement de l'alimentation,2023-11-01
+86,86,Écran cassé,Remplacement de l'écran,2023-11-02
+87,87,Problème de démarrage,Réparation du système d'exploitation,2023-11-03
+88,88,Virus détecté,Nettoyage du système,2023-11-04
+89,89,Problème de réseau,Réparation de la carte réseau,2023-11-05
+90,90,Performance lente,Optimisation du système,2023-11-06
+91,91,Perte de données,Restauration à partir de la sauvegarde,2023-11-07
+92,92,Problème de son,Remplacement des haut-parleurs,2023-11-08
+93,93,Surchauffe,Nettoyage du système de refroidissement,2023-11-09
+94,94,Problème de clavier,Remplacement du clavier,2023-11-10
+95,95,Échec du disque dur,Remplacement du disque dur,2023-11-11
+96,96,Problème d'affichage,Réparation de la carte graphique,2023-11-12
+97,97,Échec de la mise à jour,Installation de la mise à jour,2023-11-13
+98,98,Problème de batterie,Remplacement de la batterie,2023-11-14
+99,99,Problème d'alimentation,Remplacement de l'alimentation,2023-11-01
+100,100,Écran cassé,Remplacement de l'écran,2023-11-02
