@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM ubuntu:22.04
 RUN apt-get update && apt-get upgrade -y
 RUN apt-get -y install npm nodejs
 RUN npm install -g @dbml/cli
